@@ -61,7 +61,7 @@ func is_transparent():
 	return transparent
 
 func get_centre_point() -> Vector2:
-	return centre_point_of_coords(coords)
+	return Hex.centre_point_of_coords(coords)
 
 static func centre_point_of_coords(hex_coords: Vector2) -> Vector2:
 	var point: Vector2 = Vector2()
