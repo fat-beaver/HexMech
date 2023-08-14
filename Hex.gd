@@ -40,8 +40,6 @@ func set_terrain_type(new_terrain_type: int):
 			passable = false
 			transparent = false
 
-# test
-
 func get_terrain_type():
 	return terrain_type
 
