@@ -1,0 +1,19 @@
+{
+    "name": "test map 1",
+    "description": "it's a map for testing",
+    "mapType": "grass",
+    "radius": 5,
+    "height": 2,
+    "features": {
+
+    },
+    "mapEntities": {
+
+    },
+    "enemies": {
+
+    },
+    "neutrals": {
+
+    }
+}
